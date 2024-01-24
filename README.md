@@ -2,7 +2,7 @@
 - Node.js
 - react.Js
 
-# SIMULAÇÃO DE PREÇO VEÍCULO
+# POKÉDEX
  Teste Seletivo Dexpay
 
 # Como rodar o projeto
